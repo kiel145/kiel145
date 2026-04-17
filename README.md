@@ -1,16 +1,42 @@
-## Hi there 👋
+# Kevin Hibatul Hakim
 
-<!--
-**kiel145/kiel145** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨🏻‍💻 Profile Summary
+I’m a Bachelor’s graduate in Management and a Data Science learner with experience in business operations and data analytics. I have a strong interest in transforming data into actionable insights for business decision-making.
 
-Here are some ideas to get you started:
+## 📊 Currently
+I am strengthening my skills in Data Science, focusing on machine learning, data analysis, and business-oriented solutions using Python and SQL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚙️ Projects
+- 🚗 Used Car Price Prediction (Machine Learning)
+- 🏍 Motorcycle Price Analysis (EDA & Business Insights)
+  
+## 🛠 Tech Stack
+
+### Languages
+- Python
+- SQL
+
+### Libraries
+- Pandas, NumPy, Matplotlib, Seaborn
+- Scikit-learn
+- TensorFlow
+
+### Tools
+- Tableau
+- Streamlit
+- PostgreSQL
+
+## What I Do
+- Data Cleaning & Analysis
+- Machine Learning Modeling
+- Data Visualization
+- Business Insight Generation
+
+## Looking For
+- Data Analyst
+- Data Scientist
+- Business Intelligence Roles
+
+## 📫 Contact Me
+- Email: khibatul7@gmail.com
+- GitHub: https://github.com/kiel145
